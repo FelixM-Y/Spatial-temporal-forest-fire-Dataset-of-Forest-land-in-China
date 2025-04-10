@@ -1,4 +1,4 @@
-# Spatial-temporal-forest-fire-Dataset-of-Forest-land-in-China-
+# Spatial-temporal-forest-fire-Dataset-of-Forest-land-in-China
 
 介绍：
 
